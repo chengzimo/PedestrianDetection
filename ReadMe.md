@@ -20,21 +20,21 @@ gevent 1.4.0
 
 ```
 PedestrianDetection
-|__ PedestrianDetectionFunc
-|	|__ Data
-|	|   |__ coco_classes.txt  
-|	|	|__ yolo_anchors.txt  
-|	|	|__ model.h5  
-|	|__ Model
-|	|	|__ model.py  
-|	|__ Utils
-|		|__ utils.py  
-|	|__ PedestrianDetectionClass.py  
-|	|__ PedestrianDetectionModel.py
-|__ PedestrianDetectionMain.py  
-|__ TestCode.py  
-|__ VerifyResult.py  
-|__ Person.jpg
+	|__ PedestrianDetectionFunc
+	|		|__ Data
+	|		|     |__ coco_classes.txt  
+	|		|     |__ yolo_anchors.txt  
+	|		|     |__ model.h5  
+	|		|__ Model
+	|		|     |__ model.py  
+	|		|__ Utils
+	|		|     |__ utils.py  
+	|		|__ PedestrianDetectionClass.py  
+	|		|__ PedestrianDetectionModel.py
+	|__ PedestrianDetectionMain.py  
+	|__ TestCode.py  
+	|__ VerifyResult.py  
+	|__ Person.jpg
 ```
 
 ## 3. Quick Start
